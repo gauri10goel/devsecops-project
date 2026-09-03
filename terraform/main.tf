@@ -1,3 +1,4 @@
+# tfsec continue-on-error test
 provider "google" {
   project = "project-365fc165-6c21-4ae0-bcb"
   region  = "us-central1"
